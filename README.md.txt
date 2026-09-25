@@ -1,4 +1,4 @@
-# SCADA Digital Twin
+# Gemeo digital de um motor
 
 Um sistema de Supervisao e Aquisicao de Dados (SCADA) que atua como um Gemeo Digital para equipamentos industriais. Este projeto une a Engenharia de Controlo e Automacao ao Desenvolvimento de Software, substituindo interfaces industriais estaticas por uma arquitetura web.
 
