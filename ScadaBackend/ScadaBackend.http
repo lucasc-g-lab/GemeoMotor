@@ -1,0 +1,6 @@
+@ScadaBackend_HostAddress = http://localhost:5103
+
+GET {{ScadaBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
